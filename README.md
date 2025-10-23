@@ -1,4 +1,3 @@
-<!-- 动态打字机标题 -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5CE1E6&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Aaziqi!;AI+Researcher+%7C+Deep+Learning+%7C+Multimodal+Intelligence;Building+Smarter+Machines+With+Data+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
@@ -8,15 +7,21 @@
 ### 🧠 About Me  
 💡 I’m passionate about **AI, Deep Learning, and Multimodal Perception**.  
 🧩 My current research focuses on **Generalized Category Discovery (GCD)**, **Self-Supervised Learning**, and **Vision-Language Models (VLMs)**.  
-🌱 I enjoy exploring **Representation Learning**, **Contrastive Learning**, and **Generative AI**.  
+🌱 Exploring **Representation Learning**, **Contrastive Learning**, and **Generative AI**.  
 📬 Contact me: **omglaq@gamil.com**
 
 ---
 
-### 🌌 Research Interests (Dynamic Tag Cloud)
+### 🌌 Research Interests
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=Python,PyTorch,Deep%20Learning,Computer%20Vision,Multimodal%20AI,Self-Supervised,Generative%20Models,NLP,Transformer,Contrastive%20Learning&theme=radical&width=800" alt="Research Interests Cloud"/>
+  <img src="https://img.shields.io/badge/AI-Deep%20Learning-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-MultiModal-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Self--Supervised-Learning-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vision--Language-Models-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-Models-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Representation-Learning-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transformer-Architecture-red?style=for-the-badge"/>
 </p>
 
 ---
@@ -40,17 +45,19 @@
 
 ---
 
-### 🧩 Featured Projects
+### 🧩 Featured Projects  
 
 | Project | Description | Preview | Tech |
 |----------|--------------|----------|------|
-| [🔍 **GCD-Discovery**](https://github.com/aaziqi/GCD-Discovery) | Implementation of *Generalized Category Discovery* with ViT and SimCLR | ![GCD Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM3ZjE1ZTFlNDI3YTI2ZDNhY2VkODQzMjA3ZWNjMzdiZjE2ZmU1MSZjdD1n/Id0Y9dFZ6P7zq/giphy.gif) | ViT · PyTorch · Clustering |
-| [🧠 **MultiModal-Lab**](https://github.com/aaziqi/MultiModal-Lab) | Vision-Language fusion experiments using CLIP and BLIP | ![MM Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmUwNDUyMzliZTJjZjkzZTc0YmZlZjk2OGQ5YTYzY2Y5NWE2ZTE4NSZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif) | CLIP · BLIP · Transformers |
-| [📷 **Face-Recognition-System**](https://github.com/aaziqi/Face-Recognition-System) | Real-time multi-face detection and recognition | ![Face Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBkZDIzNjU3M2M5ZjY0MzcxZWQyNGFlOGQ3MGEyZmQ2YzAzM2RkMyZjdD1n/11ISwbgCxEzMyY/giphy.gif) | ViT · OpenCV · Streamlit |
+| [🔍 **GCD-Discovery**](https://github.com/aaziqi/GCD-Discovery) | Implementation of *Generalized Category Discovery* using ViT and SimCLR | <img src="https://github.com/aaziqi/aaziqi/assets/placeholder-gcd.gif" width="180"/> | ViT · PyTorch · Clustering |
+| [🧠 **MultiModal-Lab**](https://github.com/aaziqi/MultiModal-Lab) | Vision-Language fusion experiments with CLIP & BLIP | <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="180"/> | CLIP · BLIP · Transformers |
+| [📷 **Face-Recognition-System**](https://github.com/aaziqi/Face-Recognition-System) | Real-time multi-face detection and recognition | <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="180"/> | ViT · OpenCV · Streamlit |
+
+> ⚡ 提示：创建项目后，把对应的链接 & GIF 动图换成你自己的仓库和结果图。
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaziqi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
@@ -59,7 +66,7 @@
 
 ---
 
-### 🔥 Activity & Achievements
+### 🔥 Activity & Achievements  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aaziqi&theme=tokyonight-duo&hide_border=true" height="150" />
