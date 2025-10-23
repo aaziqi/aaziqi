@@ -60,6 +60,7 @@
 | [🔍 **GCD-Discovery**](https://github.com/aaziqi/GCD-Discovery) | Implementation of *Generalized Category Discovery* with ViT + SimCLR.<br>ViT + SimCLR 实现的广义类别发现算法。 | <img src="https://i.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.webp" width="180"/> | ViT · PyTorch · Semi-Supervised |
 | [🧠 **MultiModal-Lab**](https://github.com/aaziqi/MultiModal-Lab) | Vision-Language fusion using CLIP & BLIP.<br>基于 CLIP 和 BLIP 的视觉语言融合研究。 | <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="180"/> | CLIP · BLIP · Transformers |
 | [📷 **Face-Recognition-System**](https://github.com/aaziqi/Face-Recognition-System) | Real-time multi-face detection and recognition.<br>基于 ViT 的实时多人人脸检测与识别系统。 | <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="180"/> | ViT · OpenCV · Streamlit |
+| [🖼️ **AI-Image-Annotation-System**](https://github.com/aaziqi/ai-image-annotation-system) | A smart web-based image annotation platform powered by deep learning.<br>基于深度学习的智能图像标注系统，实现高效的人机协同标注与可视化。 | <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZtdmdnYjh2cTV0Z2ZucDQ1bGxpbmpzZG5ra2xkcHZ6NnR4c2RsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btMCltyDvSgF92E/giphy.webp" width="180"/> | PyTorch · Streamlit · OpenCV · FastAPI |
 
 ---
 
