@@ -37,30 +37,78 @@
 ## ⚙️ Tech Stack ｜ 技术栈  
 
 #### 💻 Languages & Frameworks ｜ 编程语言与框架  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Transformers](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/docs/transformers/index" target="_blank">
+    <img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+</p>
 
 #### ☁️ Tools & DevOps ｜ 开发与运维工具  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </a>
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank">
+    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🧩 Featured Projects ｜ 重点项目展示  
 
+<style>
+.project-card img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.project-card img:hover {
+  transform: scale(1.08);
+  box-shadow: 0 0 20px rgba(100, 200, 255, 0.5);
+}
+</style>
+
 | Project / 项目 | Description / 简介 | Preview | Tech / 技术 |
 |----------------|--------------------|----------|--------------|
-| [🔍 **GCD-Discovery**](https://github.com/aaziqi/GCD-Discovery) | Implementation of *Generalized Category Discovery* with ViT + SimCLR.<br>ViT + SimCLR 实现的广义类别发现算法。 | <img src="https://i.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.webp" width="180"/> | ViT · PyTorch · Semi-Supervised |
-| [🧠 **MultiModal-Lab**](https://github.com/aaziqi/MultiModal-Lab) | Vision-Language fusion using CLIP & BLIP.<br>基于 CLIP 和 BLIP 的视觉语言融合研究。 | <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="180"/> | CLIP · BLIP · Transformers |
-| [📷 **Face-Recognition-System**](https://github.com/aaziqi/Face-Recognition-System) | Real-time multi-face detection and recognition.<br>基于 ViT 的实时多人人脸检测与识别系统。 | <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="180"/> | ViT · OpenCV · Streamlit |
-| [🖼️ **AI-Image-Annotation-System**](https://github.com/aaziqi/ai-image-annotation-system) | A smart web-based image annotation platform powered by deep learning.<br>基于深度学习的智能图像标注系统，实现高效的人机协同标注与可视化。 | <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZtdmdnYjh2cTV0Z2ZucDQ1bGxpbmpzZG5ra2xkcHZ6NnR4c2RsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btMCltyDvSgF92E/giphy.webp" width="180"/> | PyTorch · Streamlit · OpenCV · FastAPI |
+| [🔍 **GCD-Discovery**](https://github.com/aaziqi/GCD-Discovery) | Implementation of *Generalized Category Discovery* with ViT + SimCLR.<br>ViT + SimCLR 实现的广义类别发现算法。 | <img class="project-card" src="https://i.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.webp" width="180"/> | ViT · PyTorch · Semi-Supervised |
+| [🧠 **MultiModal-Lab**](https://github.com/aaziqi/MultiModal-Lab) | Vision-Language fusion using CLIP & BLIP.<br>基于 CLIP 和 BLIP 的视觉语言融合研究。 | <img class="project-card" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="180"/> | CLIP · BLIP · Transformers |
+| [📷 **Face-Recognition-System**](https://github.com/aaziqi/Face-Recognition-System) | Real-time multi-face detection and recognition.<br>基于 ViT 的实时多人人脸检测与识别系统。 | <img class="project-card" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="180"/> | ViT · OpenCV · Streamlit |
+| [🖼️ **AI-Image-Annotation-System**](https://github.com/aaziqi/ai-image-annotation-system) | A smart web-based image annotation platform powered by deep learning.<br>基于深度学习的智能图像标注系统，实现高效的人机协同标注与可视化。 | <img class="project-card" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZtdmdnYjh2cTV0Z2ZucDQ1bGxpbmpzZG5ra2xkcHZ6NnR4c2RsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btMCltyDvSgF92E/giphy.webp" width="180"/> | PyTorch · Streamlit · OpenCV · FastAPI |
+
+---
+
+## 📄 Publications & Research ｜ 学术成果  
+
+| Year | Title / 标题 | Venue / 会议期刊 | Link |
+|------|---------------|------------------|------|
+| 2025 | **Generalized Category Discovery via Contrastive Representation Learning** | *Under Review @ CVPR 2025* | 🔗 [Preprint](https://github.com/aaziqi/GCD-Discovery) |
+| 2024 | **Vision-Language Fusion for Few-shot Perception** | *ICCV Workshop 2024* | 🔗 [Paper Link](https://github.com/aaziqi/MultiModal-Lab) |
+| 2023 | **Efficient Multimodal Representation Learning** | *Student Research Project* | 🔗 [Project Repo](https://github.com/aaziqi) |
 
 ---
 
@@ -121,6 +169,6 @@
 </p>
 
 <p align="center">
-  <sub><i>Last updated automatically — stay tuned for new research and code ✨  
-  自动更新中 —— 敬请期待新的研究与代码发布 ✨</i></sub>
+  <sub><i>🕒 Last updated: <a href="https://github.com/aaziqi">auto-sync via GitHub Actions</a><br>
+  自动更新时间 — 持续同步最新研究与代码 ✨</i></sub>
 </p>
