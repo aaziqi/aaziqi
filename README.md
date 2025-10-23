@@ -1,32 +1,33 @@
+<!-- 🧠 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5CE1E6&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Aaziqi!;AI+Researcher+%7C+Deep+Learning+%7C+Multimodal+Intelligence;Building+Smarter+Machines+With+Data+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6EE7FF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Aaziqi!;AI+Researcher+%7C+Deep+Learning+%7C+Multimodal+Intelligence;Building+Smarter+Machines+With+Data+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me  
-💡 I’m passionate about **AI, Deep Learning, and Multimodal Perception**.  
-🧩 My current research focuses on **Generalized Category Discovery (GCD)**, **Self-Supervised Learning**, and **Vision-Language Models (VLMs)**.  
-🌱 Exploring **Representation Learning**, **Contrastive Learning**, and **Generative AI**.  
-📬 Contact me: **omglaq@gamil.com**
+💡 Passionate about **AI, Deep Learning**, and **Multimodal Perception**.  
+🔬 Currently exploring **Generalized Category Discovery (GCD)**, **Vision-Language Models**, and **Self-Supervised Representation Learning**.  
+🌱 Interested in **Contrastive Learning**, **Generative Models**, and **AI-driven Perception Systems**.  
+📬 Reach me at: **omglaq@gamil.com**
 
 ---
 
-### 🌌 Research Interests
+### 🌌 Research Interests  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Deep%20Learning-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-MultiModal-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Self--Supervised-Learning-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vision--Language-Models-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-Models-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Representation-Learning-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Transformer-Architecture-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%230077B5.svg?&style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-%231572B6.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-%23E34F26.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vision--Language-%23FFCC00.svg?&style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Representation%20Learning-%23563D7C.svg?&style=for-the-badge&logo=deepmind&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-%2300C853.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformer%20Architecture-%23FF4081.svg?&style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack  
 
 #### 💻 Languages & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,7 +35,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
 
 #### ☁️ Tools & DevOps  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -49,11 +50,11 @@
 
 | Project | Description | Preview | Tech |
 |----------|--------------|----------|------|
-| [🔍 **GCD-Discovery**](https://github.com/aaziqi/GCD-Discovery) | Implementation of *Generalized Category Discovery* using ViT and SimCLR | <img src="https://github.com/aaziqi/aaziqi/assets/placeholder-gcd.gif" width="180"/> | ViT · PyTorch · Clustering |
-| [🧠 **MultiModal-Lab**](https://github.com/aaziqi/MultiModal-Lab) | Vision-Language fusion experiments with CLIP & BLIP | <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="180"/> | CLIP · BLIP · Transformers |
+| [🔍 **GCD-Discovery**](https://github.com/aaziqi/GCD-Discovery) | Implementation of *Generalized Category Discovery* with ViT + SimCLR | <img src="https://i.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.webp" width="180"/> | ViT · PyTorch · Semi-Supervised |
+| [🧠 **MultiModal-Lab**](https://github.com/aaziqi/MultiModal-Lab) | Vision-Language fusion using CLIP & BLIP | <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="180"/> | CLIP · BLIP · Transformers |
 | [📷 **Face-Recognition-System**](https://github.com/aaziqi/Face-Recognition-System) | Real-time multi-face detection and recognition | <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="180"/> | ViT · OpenCV · Streamlit |
 
-> ⚡ 提示：创建项目后，把对应的链接 & GIF 动图换成你自己的仓库和结果图。
+> ⚡ Replace with your own project links + result GIFs later for full personalization.
 
 ---
 
@@ -66,14 +67,14 @@
 
 ---
 
-### 🔥 Activity & Achievements  
+### 🏆 Activity & Achievements  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aaziqi&theme=tokyonight-duo&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaziqi&theme=gruvbox&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aaziqi&theme=gruvbox&no-frame=true&margin-w=10" alt="Trophies" />
 </p>
 
 <p align="center">
@@ -83,14 +84,35 @@
 ---
 
 ### 💬 Quote of the Day  
-> “The future belongs to those who believe in the beauty of their dreams.” — Eleanor Roosevelt  
+> “The best way to predict the future is to create it.” — Alan Kay  
 
 ---
+
+### 🌐 Connect With Me  
+
+<p align="center">
+  <a href="mailto:omglaq@gamil.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/aaziqi">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- 🌈 Perfect Gradient Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Thank%20You%20for%20Visiting%20💫&textBg=false&fontColor=ffffff&fontAlign=50&fontSize=28&fontAlignY=40&desc=Aaziqi%20%7C%20AI%20Research%20and%20Deep%20Learning&descAlign=50&descAlignY=65"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aaziqi&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:4B0082&height=120&section=footer"/>
+  <sub><i>Last updated automatically — stay tuned for new research and code ✨</i></sub>
 </p>
