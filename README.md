@@ -106,9 +106,9 @@
 
 | Year | Title / 标题 | Venue / 会议期刊 | Link |
 |------|---------------|------------------|------|
-| 2025 | **Generalized Category Discovery via Contrastive Representation Learning** | *Under Review @ CVPR 2025* | 🔗 [Preprint](https://github.com/aaziqi/GCD-Discovery) |
-| 2024 | **Vision-Language Fusion for Few-shot Perception** | *ICCV Workshop 2024* | 🔗 [Paper Link](https://github.com/aaziqi/MultiModal-Lab) |
-| 2023 | **Efficient Multimodal Representation Learning** | *Student Research Project* | 🔗 [Project Repo](https://github.com/aaziqi) |
+| 2025 | **------** | *---* | 🔗 [Preprint](---) |
+| 2024 | **------** | *---* | 🔗 [Preprint](---) |
+| 2023 | **------** | *---* | 🔗 [Preprint](---) |
 
 ---
 
